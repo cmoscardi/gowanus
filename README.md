@@ -8,3 +8,6 @@ As of now it only contains audio sensor levels data.
 
 NOTE: Compressed data is included for ease-of-use, because it's not huge.
 
+
+## Audio files
+2108-03-16.tar.gz -- First full day out, April 30th.
