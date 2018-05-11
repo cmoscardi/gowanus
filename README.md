@@ -11,3 +11,5 @@ NOTE: Compressed data is included for ease-of-use, because it's not huge.
 
 ## Audio files
 2108-03-16.tar.gz -- First full day out, April 30th.
+
+## Update with final resouces
